@@ -10,3 +10,4 @@ github : git으로 관리한 자료를 저장하는 원거리 저장소 + 관리
 sourcetree : git을 gui로 사용하기위한 툴 
 https://www.sourcetreeapp.com/
 
+test2 수정 
