@@ -1,6 +1,10 @@
 23.12.19 git/github
 
-git/github 왜 나왔나? 
+master브랜치로 commit 
+내가 원조임
+
+
+충돌 나나??
 
 local에서 했던 작업을 remote에서 안전하고 대용량으로 저장할 수 있게끔
 
@@ -19,5 +23,3 @@ local repo : .git 폴더
 
 master브랜치로 commit 
 
-
------------수정 & 충돌 테스트--------------------
