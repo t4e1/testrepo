@@ -1,20 +1,4 @@
 23.12.19 git/github
 
-git/github 왜 나왔나? 
-
-local에서 했던 작업을 remote에서 안전하고 대용량으로 저장할 수 있게끔
-
-git : 분산/버전관리가 가능한 툴 
-github : git으로 관리한 자료를 저장하는 원거리 저장소 + 관리이력(history), 코드리뷰 등의 기능 -> 협업에 사용 가능
-
-sourcetree : git을 gui로 사용하기위한 툴 
-https://www.sourcetreeapp.com/
-
-git 상태
-project source code : 개발중인 파일 
-staging area(=index area) : commit할 파일을 담아놓는 임시 공간 
-local repo : .git 폴더
-
-수정 테스트
-
 master브랜치로 commit 
+내가 원조임
